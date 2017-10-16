@@ -1,12 +1,42 @@
 https://belvg.com/blog/theme-yml-file-the-heart-of-prestashop-1-7.html
 https://www.smarty.net/crash_course
 
+Content:
+  - Menu
+      - shop
+      - about us
+      - help
+      - contact
+  - Sign in / Sign up / Account
+  - Search
+  - Cart
 
-https://colorlib.com/wp/ecommerce-website-examples/
-https://mahabis.com/
-https://fangio.shop/pages/homepage
-https://usd.farer.com/
+Inspiration (https://colorlib.com/wp/ecommerce-website-examples/):
+  https://mahabis.com/
+    - Menu en la parte superior central
+    - Menu integrado con slider/banner
+    - Submenu equivale a menu oculto
+
+  https://fangio.shop/pages/homepage
+    - Imagen full-screen
+
+  https://farer.com/
+    - Footer
+
+  https://www.deathwishcoffee.com/
+    - Newsletter
+    - Footer
+
+  https://www.allbirds.com/
+    - Menu full-width
+    - Image and video combination
+
+  https://www.nextbit.com/
+    - Clean layout
+    - Full image banner
+
+  
 
 
 
-
+ 
