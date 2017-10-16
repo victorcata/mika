@@ -35,8 +35,18 @@ Inspiration (https://colorlib.com/wp/ecommerce-website-examples/):
     - Clean layout
     - Full image banner
 
-  
+  https://fightforux.com/
+    - Colors
 
+  https://bokeh.life/
+    - Products
 
-
+  https://22bicycles.com/
+    - Parallax effect
  
+  https://wocketwallet.com/
+    - Video Home
+    - Menu
+
+  https://360fly.myshopify.com/
+    - Content separators
